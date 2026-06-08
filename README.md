@@ -14,11 +14,17 @@ This project provides a **data analysis of pizza sales** using **SQL** for data 
 ## 📁 Repository Structure
 pizza_project/
 ├── data/                 # Raw data files (CSV, Excel, etc.)
+
 ├── notebooks/            # Jupyter notebooks for data exploration/analysis
+
 ├── Screenshots/          # Images of the Power BI dashboard or results
+
 ├── queries.sql           # SQL scripts for data extraction and analysis
+
 ├── pizza_project.pbix    # Power BI dashboard file
+
 ├── .gitignore
+
 └── README.md
 
 ## 🔍 Key Questions Answered
@@ -50,4 +56,4 @@ pizza_project/
 
 4. **Explore the notebook** – Open `notebooks/` in Jupyter Lab or VS Code.
 
-5. Open the dashboard – Double-click `pizza_project.pbix` to see the interactive Power BI report.
+5. **Open the dashboard** – Double-click `pizza_project.pbix` to see the interactive Power BI report.
