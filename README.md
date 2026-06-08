@@ -54,6 +54,14 @@ pizza_project/
 
 5. **Open the dashboard** – Double-click `pizza_project.pbix` to see the interactive Power BI report.
 
-📊 Dashboard Preview
+### 📊 Dashboard Preview
 
-![Alt Text](Screenshots/pizza_sales-dashboard-1.png)
+<img width="1290" height="732" alt="pizza-sales-dashboard-2" src="https://github.com/user-attachments/assets/a3d42e36-7bcf-486f-afd3-39b13cbbbd0e" />
+
+<img width="1298" height="753" alt="pizza-sales-dashboard-1" src="https://github.com/user-attachments/assets/26810de9-02b6-4ec1-ba5d-5977c2ab40a9" />
+
+### 👤 Author
+
+Luis Alberto Ahumada Sanchez
+
+    GitHub: @luis-ahumadas
