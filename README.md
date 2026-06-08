@@ -53,3 +53,7 @@ pizza_project/
 4. **Explore the notebook** – Open `notebooks/` in Jupyter Lab or VS Code.
 
 5. **Open the dashboard** – Double-click `pizza_project.pbix` to see the interactive Power BI report.
+
+📊 Dashboard Preview
+
+![Alt Text](Screenshots/pizza_sales-dashboard-1.png)
